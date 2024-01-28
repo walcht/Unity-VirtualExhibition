@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7613c9976d15b18489e557ee968a2e83, type: 3}
+  m_Name: small_exhibition_ai_data
+  m_EditorClassIdentifier: 
+  spawnPositions:
+  - {x: 19, y: 0, z: -15.75}
+  - {x: -19, y: 0, z: -16}
+  - {x: 6.321106, y: 0, z: -10.892212}
+  - {x: -6.5, y: 0, z: -11.25}
+  - {x: 6.5, y: 0, z: 11}
+  - {x: -6.5, y: 0, z: 11}
+  - {x: 0, y: 0, z: 20.5}
+  - {x: 0, y: 0, z: -20.5}
+  - {x: 13, y: 0, z: -20.25}
+  - {x: -13, y: 0, z: -20.25}
+  - {x: 13, y: 0, z: 20.75}
+  - {x: -13, y: 0, z: 20.75}
+  - {x: 18.75, y: 0, z: -5.5}
+  - {x: 18.75, y: 0, z: 5.5}
+  - {x: -19, y: 0, z: -5.75}
+  - {x: -19.321106, y: 0, z: 5.428894}
+  - {x: 18.75, y: 0, z: 16.25}
+  - {x: -19.25, y: 0, z: 16}
+  - {x: 0, y: 0, z: 0}

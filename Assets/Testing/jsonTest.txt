@@ -1,0 +1,33 @@
+{
+  "tv": {
+    "purchased": false
+  },
+  "furniture": {
+    "purchased": true,
+    "furniture_type": 0,
+    "color": [
+      255,
+      255,
+      255
+    ]
+  },
+  "banner": {
+    "purchased": true,
+    "banner_type": 2,
+    "texture_download_url": "banner6259335ee0eb9d4c5867794e.png"
+  },
+  "_id": "6259335fe0eb9d4c58677950",
+  "type": "XL",
+  "position": "RA20",
+  "background_color": [
+    50,
+    58,
+    69
+  ],
+  "caracter_type_00": 1,
+  "exponent": "6259335ee0eb9d4c5867794e",
+  "texture_download_url": "texture6259335ee0eb9d4c5867794e.png",
+  "exhibition": "62572b2ead92d761abc7097d",
+  "__v": 0,
+  "caracter_type_01": 1
+}

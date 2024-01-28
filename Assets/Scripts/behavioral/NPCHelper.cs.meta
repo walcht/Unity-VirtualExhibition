@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 678e5d128fac69742a511d59f778294d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hand: {instanceID: 0}
+  - phone: {fileID: 1145214836529793487, guid: 0f31630dc817c9941a533baf49a8c3e6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

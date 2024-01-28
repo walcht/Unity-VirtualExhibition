@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 68c0d76133067b64c8db8bf32ed81c89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sceneManagementLayerSO: {fileID: 11400000, guid: cccd267d9a7f7fb4b8797f564cf136f6, type: 2}
+  - SExhibition: {fileID: 7649328985998399277, guid: 3e0c5c48f710bcb44889ff31bec35086, type: 3}
+  - MExhibition: {fileID: 1785212907599191891, guid: 4fb538357e7c5f1429984d8c5e97b1ed, type: 3}
+  - LExhibition: {fileID: 1303822932279687641, guid: ee274878c068680429496cb1fc216f02, type: 3}
+  - pack00: {fileID: 6461245364667767440, guid: 35c8ac52db16d0f4dbbe44cdcf4a9d67, type: 3}
+  - pack01: {fileID: 3414657924710942310, guid: c3f23af426d16f14ea82d5a6e3598e4e, type: 3}
+  - pack02: {fileID: 8509590265379791640, guid: 94e864d772abd6f4483394a4fde31b9b, type: 3}
+  - pack03: {fileID: 3502106944423107467, guid: 42e0daef91dbe6144a1c7f95648f110d, type: 3}
+  - XLTV: {instanceID: 0}
+  - LRTV: {instanceID: 0}
+  - LLTV: {instanceID: 0}
+  - sponsorCylindre: {fileID: 3965566066911152110, guid: baf3f497d31ba1041868c65ad86dee08, type: 3}
+  - sponsorDisk: {fileID: 1624706517170362132, guid: fcde62688b9c23a468d0635fad5e1adf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

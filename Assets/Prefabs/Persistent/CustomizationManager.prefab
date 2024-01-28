@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &714332307442627109
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7750374238170472892}
+  - component: {fileID: 2979218291312669332}
+  m_Layer: 0
+  m_Name: CustomizationManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &7750374238170472892
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 714332307442627109}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -56.411396, y: -29.230698, z: 62.644688}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2979218291312669332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 714332307442627109}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68c0d76133067b64c8db8bf32ed81c89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneManagementLayerSO: {fileID: 11400000, guid: cccd267d9a7f7fb4b8797f564cf136f6, type: 2}
+  CharactersContainerSO: {fileID: 11400000, guid: 8f600eed5bdc28a4e9fa2ef71ce1e7a5, type: 2}
+  isThisExhibitionPreview: 0
+  isThisEntrancePreview: 0
+  pack00: {fileID: 6461245364667767440, guid: 35c8ac52db16d0f4dbbe44cdcf4a9d67, type: 3}
+  pack01: {fileID: 3414657924710942310, guid: c3f23af426d16f14ea82d5a6e3598e4e, type: 3}
+  pack02: {fileID: 8509590265379791640, guid: 94e864d772abd6f4483394a4fde31b9b, type: 3}
+  pack03: {fileID: 3502106944423107467, guid: 42e0daef91dbe6144a1c7f95648f110d, type: 3}
+  XLBanners:
+  - {fileID: 2442347673895184671, guid: 3ee6b3a02dc70534aa25cb1c11bdd9f8, type: 3}
+  - {fileID: 8847334844645099715, guid: c0277369958f37445b6d0331535ad0af, type: 3}
+  - {fileID: 7672521811037405228, guid: 8d48723b3160cb04c84c0fa3aa0becd5, type: 3}
+  - {fileID: 3089795662044136684, guid: a783bf426b05cff4dbd29fbae3aa4c7c, type: 3}
+  LLBanners:
+  - {fileID: 4994325945460988314, guid: 862770a3517d5274095319d8a7983f6c, type: 3}
+  - {fileID: 1622936089576360334, guid: 78b47cc0e08480c4fbc4a1de4c4d757c, type: 3}
+  - {fileID: 6949375663094742044, guid: 13894a6dc49792b47885582f0f3532f9, type: 3}
+  LRBanners:
+  - {fileID: 7191176730742490498, guid: 728d1ed5204e64046b6f3e17a0c2a3c3, type: 3}
+  - {fileID: 6393941213261022697, guid: cc5b581c8076f424bb6932b606b08f3a, type: 3}
+  - {fileID: 4389100716985865910, guid: 42e7eef2fd34de34da99751252b824d5, type: 3}
+  MBanners:
+  - {fileID: 7903448266082274567, guid: cf7a8624547771f438280fdf2e187ace, type: 3}
+  - {fileID: 407156527381828110, guid: 5e8d33c8e735faa4bb8e2c17fedbdfbb, type: 3}
+  XLFurniture:
+  - {fileID: 4033173389500847880, guid: b6b5b4fa732f33e4c9f4712db81e6343, type: 3}
+  - {fileID: 7682290197927418936, guid: 2f6af3454ad37ab45a0e79da00dd4ef6, type: 3}
+  - {fileID: 982066229998308303, guid: 7a420fc0ef77ba34094b9f741183f161, type: 3}
+  - {fileID: 6946966725469218477, guid: 0024e53a1b78c2e4e97a21df760daa68, type: 3}
+  LLFurniture:
+  - {fileID: 4319797580671405654, guid: 5a0d849f7061dfa448842234e68a3ea3, type: 3}
+  - {fileID: 6350193738205275367, guid: 50e6b62c62e640f4f8e5d6b2203aa66b, type: 3}
+  - {fileID: 7151429754657577287, guid: cfe86a3331081fa419fd23d8c0f4df6f, type: 3}
+  LRFurniture:
+  - {fileID: 23213279241448201, guid: b6dc349b01072d54a8a93bbce6115560, type: 3}
+  - {fileID: 8805394767566251200, guid: 6f951de90f8937b48b43c661b87029e3, type: 3}
+  - {fileID: 2320701286176056847, guid: c98e1fb719639664791760621edaa10b, type: 3}
+  XLTV: {fileID: 348703143836259103, guid: e59a22773b8452f408cd388eb5920195, type: 3}
+  LRTV: {fileID: 4521770982289546075, guid: 28556e114543e3c4f9ea76b712ec328a, type: 3}
+  LLTV: {fileID: 6565389040286864259, guid: 92c85087bacabe140b27560706c98e9b, type: 3}
+  sponsorCylinder00: {fileID: 3965566066911152110, guid: baf3f497d31ba1041868c65ad86dee08, type: 3}
+  sponsorCylinder01: {fileID: 5171429168113725755, guid: bb68e7a03cc976e4292ddfd1885c9791, type: 3}
+  sponsorCylinder02: {fileID: 3373291213063531620, guid: ce19b168d343fa04e881d66fe3dc8200, type: 3}
+  sponsorCylinder03: {fileID: 1377100274042225588, guid: 0f9c32c1d1e934549bdb2f37889af7ae, type: 3}
+  sponsorDisc: {fileID: 3171091192367207609, guid: 8b7dcb0100ea3464381c79b2044d363a, type: 3}
+  sponsorDisplayScreen: {fileID: 145000851661058787, guid: 65dfb63847c999b40b8141e16ad36e58, type: 3}
+  sponsorBanner00: {fileID: 1132164712639993678, guid: f12060543b5fadf47abfcd70c74a6340, type: 3}
+  sponsorBanner01: {fileID: 2925158759793142299, guid: 0dbd74034aff93043ab9917ec228798f, type: 3}
+  sponsorBanner02: {fileID: 1837354604595878247, guid: 03688326e81cb234387c988f6697f48e, type: 3}
+  sponsorBanner03: {fileID: 4250184781642116669, guid: f1b183aba89dd2a4797174490c9f1c9b, type: 3}
+  SponsorBanner00: {fileID: 6264695460603450850, guid: 06cd8da5ba8242b40b2ab13a7d4829b2, type: 3}
+  SponsorBanner01: {fileID: 3049046512852592710, guid: 4baccc05796eb9540b695c3e8bd98330, type: 3}
+  CubeScreen: {fileID: 6087581742628890468, guid: fa600c2b1acda0a4f9aaa68b2cce9b27, type: 3}
+  EnterAuditorium: {fileID: 3052242176919617050, guid: 463638b692630414e9d281a5c0159001, type: 3}
+  StandCharacters:
+  - {fileID: 2289953056144711296, guid: 141ed13f3f83e094496a12b903e4273e, type: 3}
+  - {fileID: 4155327477681453575, guid: d503e95d8e0566241a7fe692ee478554, type: 3}
+  - {fileID: 8644496210126472947, guid: 6e5dbf2d1fc3a2c4799b8a825dd2de30, type: 3}
+  - {fileID: 9091061182996919479, guid: d16ee71b7d6cca04390f0f7aeb290afc, type: 3}
+  - {fileID: 8078995190520784030, guid: b397c69a00dc7bb4aa7d26ce77fafe15, type: 3}
+  - {fileID: 3437867906530000240, guid: 8cf87b8bcfc72124f9abc7936975f6e7, type: 3}
+  - {fileID: 3447341280015694031, guid: 3a4f4ff14bd2a3948911cc7c1709e013, type: 3}
+  - {fileID: 4023682639768720521, guid: a94cafa16c98d1a4a94bdcdc11a86836, type: 3}
+  - {fileID: 3487352757551218508, guid: 4bc41f1a4e58bae47bcb82cf50a363ab, type: 3}
+  - {fileID: 358784897027138381, guid: 128d226986a352c45a35ad2ececcff37, type: 3}
+  - {fileID: 8142677529166215787, guid: ea9639c90e4a87944b05fbf488bd5c1c, type: 3}
+  - {fileID: 244794288277002399, guid: ab68098771d0f92469eff38f23a9d988, type: 3}
+  - {fileID: 4081002062967320792, guid: 9705bb5a43f4a4f4cad26c2d52b263fe, type: 3}
+  - {fileID: 4065939358200971574, guid: 7bef4673439c2cf4ca53ecef1c9c9b5a, type: 3}
+  - {fileID: 5418227130757294871, guid: f0b9444185e663a4eaa475275a61044a, type: 3}
+  - {fileID: 5014017243826161054, guid: 15f8173b650da0c43bd96fdb9c36768e, type: 3}
+  - {fileID: 5553637157452974944, guid: ffc2afde37d309c438a698a1490656dc, type: 3}
+  - {fileID: 3194207936283537239, guid: 65163f933c0f44447a61e77d06ef9b3a, type: 3}
+  id: 
+  entrance_id: 
+  preview_exhibition_id: 
+  jsonStaticURL: https://rayenhamada.site/exhibition/
+  mediaStaticURL: https://xpoland-textures-bucket.s3.eu-west-3.amazonaws.com/
+  webinarName: 
+  webinarVideoURL: 
+  MainCharacterIndex: 0

@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe75f5711e4c15e4f9ccf7b52f3f0581, type: 3}
+  m_Name: StandRelatedData
+  m_EditorClassIdentifier: 
+  XL_dimensions:
+  - width: 182
+    height: 151
+  - width: 337
+    height: 407
+  - width: 337
+    height: 407
+  - width: 232
+    height: 494
+  LL_dimensions:
+  - width: 206
+    height: 206
+  - width: 557
+    height: 512
+  - width: 410
+    height: 512
+  LR_dimensions:
+  - width: 210
+    height: 210
+  - width: 557
+    height: 512
+  - width: 410
+    height: 512
+  M_dimensions:
+  - width: 116
+    height: 116
+  - width: 274
+    height: 294
+  S_dimensions:
+  - width: 95
+    height: 118
+  - width: 223
+    height: 372
+  Banner_XL_00_dimensions:
+  - width: 503
+    height: 131
+  - width: 130
+    height: 130
+  Banner_XL_01_dimensions:
+  - width: 499
+    height: 100
+  - width: 499
+    height: 201
+  Banner_XL_02_dimensions:
+  - width: 495
+    height: 94
+  Banner_XL_03_dimensions:
+  - width: 496
+    height: 124
+  - width: 256
+    height: 192
+  Banner_LANDR_00_dimensions:
+  - width: 443
+    height: 443
+  Banner_LANDR_01_dimensions:
+  - width: 507
+    height: 130
+  Banner_LANDR_02_dimensions:
+  - width: 497
+    height: 199
+  Banner_M_00_dimensions:
+  - width: 252
+    height: 99
+  Banner_M_01_dimensions:
+  - width: 99
+    height: 252
+  SponsorBanner_type00_dimensions:
+  - width: 1006
+    height: 503
+  SponsorDisk_dimensions:
+  - width: 593
+    height: 252
+  - width: 593
+    height: 252
+  - width: 593
+    height: 252
+  - width: 593
+    height: 252
+  SponsorCylinder_dimensions:
+  - width: 1011
+    height: 988
+  SponsorCubeScreen_dimensions:
+  - width: 484
+    height: 301
+  - width: 484
+    height: 301
+  - width: 484
+    height: 301
+  - width: 484
+    height: 301
+  SponsorScreen_dimensions:
+  - width: 1024
+    height: 664
+  StandCollider: {fileID: 4271628372182215905, guid: 9fa17bf892dc9e440afe6fc0dd4a5f4d, type: 3}
+  XLRightColliderPos: {x: -2.55, y: 0, z: 4.75}
+  XLLeftColliderPos: {x: 2.55, y: 0, z: 4.75}
+  LRColliderPos: {x: 0.4429999, y: 0, z: 3.331}
+  LLColliderPos: {x: -0.56700003, y: 0, z: 3.359}
+  MColliderPos: {x: -0.052000087, y: 0, z: 2.756}
+  SColliderPos: {x: -0.043, y: 0, z: 2.214}
+  XLRightCharacterPos: {x: -2.61, y: 0.028, z: 3.55}
+  XLLeftCharacterPos: {x: 2.622, y: 0.028, z: 3.55}
+  LRCharacterPos: {x: 0.5079999, y: 0.028, z: 2.009}
+  LLCharacterPos: {x: -0.51, y: 0.028, z: 2.009}
+  MCharacterPos: {x: 0, y: 0.028, z: 1.549}
+  SCharacterPos: {x: 0, y: 0.028, z: 1.124}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/persistent.unity
+    guid: ae60a2245ee05fb4aae309d12038ecd2
+  - enabled: 1
+    path: Assets/Scenes/chose_character.unity
+    guid: 845c084da80c9df45a8b897d42203424
+  - enabled: 1
+    path: Assets/Scenes/entrance.unity
+    guid: 8a6c2c2aa9cf7404182133808d29e0e5
+  - enabled: 1
+    path: Assets/Scenes/auditorium.unity
+    guid: 8af249fc8156aaa4097ad6b3a9314a14
+  - enabled: 1
+    path: Assets/Scenes/large_exhibition.unity
+    guid: 2d7f76af8ae08f34688627015757e896
+  - enabled: 1
+    path: Assets/Scenes/medium_exhibition.unity
+    guid: a78dc7ece88937a4b8e25e8648dc1a1b
+  - enabled: 1
+    path: Assets/Scenes/small_exhibition.unity
+    guid: eb1cf353f4983d64aa20c2f3ba56ce75
+  - enabled: 0
+    path: Assets/Scenes/preview_stand.unity
+    guid: 1e3ac68aff39f5d4e8a71fb79397181d
+  - enabled: 0
+    path: Assets/Scenes/preview_stand_menu.unity
+    guid: 53d3b2fa8c82ea84fb61b3c850ed3c67
+  m_configObjects: {}

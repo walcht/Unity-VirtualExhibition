@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01c73b53a9b0c534bbd750cbe34affd3, type: 3}
+  m_Name: ButtonSprites
+  m_EditorClassIdentifier: 
+  KEYBOARD_ENTER_SPRITE: {fileID: 21300000, guid: e2632a42a1bf3d44c88e5741f25e880b, type: 3}
+  KEYBOARD_SPACE_SPRITE: {fileID: 21300000, guid: b3c33b7539ebbf84cbcb7870ee733878, type: 3}
+  KEYBOARD_ESC_SPRITE: {fileID: 21300000, guid: baec35092d1db124fb2be5fd6df9acbf, type: 3}
+  KEYBOARD_V_SPRITE: {fileID: 21300000, guid: 658bb8a81430139488e663a69583fd2e, type: 3}
+  KEYBOARD_E_SPRITE: {fileID: 21300000, guid: 09a44de2a0fb5174cacb513338354ab0, type: 3}
+  KEYBOARD_M_SPRITE: {fileID: 21300000, guid: 6c214d9bd443a5047b26e48198c7150f, type: 3}
+  KEYBOARD_WASD_SPRITE: {fileID: 21300000, guid: df632551f12fd8e46af12456ba79b0b8, type: 3}
+  KEYBOARD_ARROWS_SPRITE: {fileID: 21300000, guid: ea93806d7b592b24abb2d3d6f13d107a, type: 3}
+  KEYBOARD_SPRITE: {fileID: 21300000, guid: ece74243bd52a0745a3eb52d62ec7684, type: 3}
+  MOUSE_SPRITE: {fileID: 21300000, guid: e99aceda444c71341bc13319b6e3ac74, type: 3}

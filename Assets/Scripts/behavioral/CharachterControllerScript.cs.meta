@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cec9d086e287d1f4e82c11563aee1cf7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InputEventLayerSO: {fileID: 11400000, guid: 82222c16efab6f74f9de9ee9557d29c5, type: 2}
+  - camTransform: {instanceID: 0}
+  - camOriginTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
