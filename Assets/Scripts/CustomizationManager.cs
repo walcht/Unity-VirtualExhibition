@@ -606,7 +606,10 @@ public class CustomizationManager : Singleton<CustomizationManager>
                 if (stand.Menu.MeetLink != null)
                     _standCustomizationData.meetLink = stand.Menu.MeetLink;
                 if (stand.Menu.PdfDownloadUrl != null)
-                    _standCustomizationData.pdfLink = stand.Menu.PdfDownloadUrl;
+                    _standCustomizationData.pdfLink = Utils.Url.GenerateURL(
+                        mediaStaticURL,
+                        stand.Menu.PdfDownloadUrl
+                    );
                 if (stand.Menu.Website != null)
                     _standCustomizationData.website = stand.Menu.Website;
                 if (stand.Menu.Address != null)
